@@ -2,4 +2,4 @@
 
 ### About
 
-[Reso Coder Documentation](https://resocoder.com/flutter-clean-architecture-tdd/)
+[Reso Coder Documentation](https://resocoder.com/flutter-clean-architecture-tdd)
